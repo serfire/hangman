@@ -1,5 +1,5 @@
 (load "~/quicklisp/setup.lisp")
-(ql:quickload "cl-ppcre")
+;(ql:quickload "cl-ppcre")
 
 (defpackage :hangman 
   (:use :common-lisp
